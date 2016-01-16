@@ -1,0 +1,9 @@
+{
+  "name": "automait-statsd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "ISC",
+  "dependencies": {
+    "lynx": "^0.2.0"
+  }
+}
